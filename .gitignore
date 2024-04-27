@@ -1,0 +1,8 @@
+/.ipynb_checkpoints
+/datasets
+/data
+**/__pycache__/
+/images
+/source
+/outputs
+/outputs/models
